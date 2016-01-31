@@ -1,0 +1,48 @@
+body{
+	font-family: "Liberation Sans", "Droid Sans", Arial, sans-serif;
+}
+
+table{
+	font-size: 8pt;
+	border-collapse: collapse;
+}
+
+td {
+	text-align: center;
+	border-width: 1px 0px;
+	border-style: solid;
+	border-color: black;
+}
+
+td.Beginner{
+	background-color: #81E9FF;
+}
+td.Easy{
+	background-color: #FFFFAA;
+}
+td.Medium{
+	background-color: #FFAAAA;
+}
+td.Hard{
+	background-color: #00FF7F;
+}
+td.Challenge{
+	background-color: #AAAAFF;
+}
+
+td.title{
+	font-weight: bold;
+	font-size: 10pt;
+}
+td.grade{
+	font-weight: bold;
+	font-size: 10pt;
+}
+td.grade img{
+	height: 16px;
+}
+td.percent{
+	font-weight: bold;
+	font-size: 10pt;
+}
+
