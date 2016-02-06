@@ -7,6 +7,11 @@ results. This may work well if you want to show off your scores over
 the Internet. If you want a local score tracker, you may want
 [smtracker-python][smtp] instead.
 
+Screenshot
+-----
+
+![A screenshot of smtracker, showing scores on the default songs from StepMania 5](http://i.imgur.com/t7LarEu.png)
+
 Known Issues
 -----
 
